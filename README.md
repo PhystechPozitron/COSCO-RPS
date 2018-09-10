@@ -16,7 +16,6 @@ relative positioning system for COSCO project
   
   # Позиционирование (все размеры даются в метрах)
 	'cinfo_path' - путь к файлу, содержащему информацию о камере (camera_matrix, dist_coeffs)
-  
 	'first_marker' - id первого aruco-маркера
 	'markers_number_x' - число маркеров по x
 	'markers_number_y' - число маркеров по y 
