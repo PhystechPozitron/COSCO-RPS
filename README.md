@@ -1,7 +1,7 @@
 # COSCO-RPS
 relative positioning system for COSCO project
 
-#--- USER GUIDE ---#
+# USER GUIDE
 
 Настройка системы производится с помощью файла 'rps.launch'. 
 Для подключения системы к пакету clever в файле clever.launch должна присутствовать строка <arg name="rps" default="true"/>.
@@ -35,5 +35,5 @@ relative positioning system for COSCO project
 	'roll_P', 'roll_I', 'roll_D' - коэффициенты PID по крену
 	'roll_max' - ограничение абслютного значения крена (в радианах)
   
- #--- Comments ---#
+ # Comments 
  ! При первоначальной настройке обязательно переводите коптер в тестовый режим с отключенными моторами (auto_arm='') !
